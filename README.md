@@ -1,7 +1,14 @@
 # G8-repo1
 Mi primer repor
 
-## python
+## psubtitulo
+python
+
+~~~python
+Class Github:
+"""
+Mi primera clase
+def  __init__(self)
 
 def funcion():
    print('Hola Mundo')
